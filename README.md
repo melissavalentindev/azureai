@@ -3,7 +3,6 @@
 ## 📋 Descrição do Projeto
 
 Este projeto demonstra o uso do Azure AI Language Studio para realizar análise de sentimentos em textos relacionados a uma loja de eletrônicos. A análise de sentimentos é uma técnica de processamento de linguagem natural (NLP) que identifica e extrai opiniões subjetivas dentro do texto, classificando-as como positivas, negativas ou neutras.
-Configuração do Ambiente.
 
 ## ⚙️ Configuração do Ambiente
 
